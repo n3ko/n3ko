@@ -2,7 +2,7 @@
 
 - I’m @n3ko
 - 👀 I’m interested in programming and languages (like machine and human too)
-- 🌱 I’m currently learning TypeScript, Japan, React and French
+- 🌱 I’m currently learning TypeScript, Japanese, React and French
 
 
 <!---
